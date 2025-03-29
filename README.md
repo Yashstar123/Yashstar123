@@ -25,4 +25,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Yashstar123/Yashstar123/output/github-snake.svg" />
 </picture>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31khljelqiobndu264bftznyvlxi)
+
